@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6285736470670@s.whatsapp.net"],
+    "ownerName": "Kayy",
+    "instagram" : "https://instagram.com/kayyofc",
+    "gcwa" : "-",
+    "botName": "Kayy-CMD",
+    "footer": "© Kayypref",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Kayy.jpg",
+    "BotKey": "your key",
+    "OpenAIKey": "your openai key",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
