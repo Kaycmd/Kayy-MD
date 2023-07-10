@@ -4,7 +4,7 @@
     "db": [
       {
         "nama": "#menu",
-        "count": 7
+        "count": 16
       },
       {
         "nama": "#speed",
@@ -16,6 +16,56 @@
       },
       {
         "nama": "#runtime",
+        "count": 1
+      },
+      {
+        "nama": "#donate",
+        "count": 2
+      },
+      {
+        "nama": "#lirik",
+        "count": 2
+      },
+      {
+        "nama": "#listpremium",
+        "count": 1
+      },
+      {
+        "nama": "#setwelcome",
+        "count": 1
+      },
+      {
+        "nama": "#welcome",
+        "count": 2
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      },
+      {
+        "nama": "#left",
+        "count": 1
+      },
+      {
+        "nama": "#dashboard",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "62857857030771@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6288211368966@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#setwelcome",
         "count": 1
       }
     ]
